@@ -1,0 +1,22 @@
+{
+  "title": "Reddit-Img-Dl",
+  "name": "reddit-img-dl",
+  "version": "0.0.1",
+  "description": "Reddit image quick downloader",
+  "main": "index.js",
+  "author": "Matt Wozniak",
+  "engines": {
+    "firefox": ">=38.0a1",
+    "fennec": ">=38.0a1"
+  },
+  "preferences": [{
+    "name": "saveDir",
+    "title": "Directory to save to",
+    "description": "The directory to save images to",
+    "type": "directory"
+  }],
+  "license": "MIT",
+  "keywords": [
+    "jetpack"
+  ]
+}

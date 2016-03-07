@@ -1,0 +1,26 @@
+
+.redditImgDlExpando{ 
+	background-image: url('expandos.png'); 
+	background-position:0px -2px;
+}
+.redditImgDlExpando:hover{ 
+	background-position:-29px -2px;
+}
+.redditImgDlExpando-done{
+	background-position:-58px -2px; 
+}
+.redditImgDlExpando-done:hover{
+	background-position:-86px -2px; 
+}
+.redditImgDlExpando-run{ 
+	background-position:-174px -2px; 
+}
+.redditImgDlExpando-hover{ 
+	background-position:-203px 0px; 
+}
+.redditImgDlExpando-err{
+	background-position:-116px -2px; 	
+}
+.redditImgDlExpando-err:hover{
+	background-position:-145px -2px; 	
+}
